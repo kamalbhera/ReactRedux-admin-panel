@@ -1,0 +1,55 @@
+{
+  "name": "react-awesome-admin-panel",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alqama Bin Sadiq",
+    "email": "alqamabinsadiq@gmail.com"
+  },
+  "homepage": "http://alqamabinsadiq.github.io/react-awesome-admin-panel",
+  "dependencies": {
+    "antd": "^3.26.20",
+    "chart.js": "^2.9.4",
+    "memoize-one": "^4.0.3",
+    "mockjs": "^1.1.0",
+    "react": "^16.14.0",
+    "react-chartjs-2": "^2.11.2",
+    "react-countup": "^4.4.0",
+    "react-dom": "^16.14.0",
+    "react-hot-loader": "^4.13.0",
+    "react-redux": "^5.1.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "5.0.0-alpha.6",
+    "react-scripts": "2.1.1",
+    "redux": "^4.1.1",
+    "redux-batched-actions": "^0.4.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
+    "babel-build": "babel src/ -d lib/"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "babel-preset-flow": "^6.23.0",
+    "copy-dir": "^0.4.0",
+    "dotenv": "^6.2.0",
+    "flow-bin": "^0.86.0",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.7.2"
+  }
+}
