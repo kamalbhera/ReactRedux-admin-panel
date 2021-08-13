@@ -11,12 +11,12 @@ This source code is licensed under the MIT license.
 <table>
   <tr>
     <td>
-      <img src="https://github.com/alqamabinsadiq.png?s=100" width="100">
+      <img src="https://github.com/kamal.png?s=100" width="100">
     </td>
     <td>
-      Alqama Bin Sadiq<br />
-      <a href="mailto:alqamabinsadiq@gmail.com">alqamabinsadiq@gmail.com</a><br />
-      <a href="https://alqamabinsadiq.github.io/">https://alqamabinsadiq.github.io/</a>
+      CS Kamal Bhera<br />
+      <a href="mailto:kamalbhera96@gmail.com">kamalbhera96@gmail.com</a><br />
+      Instagram : <a href="https://www.instagram.com/cskamalbhera/">cskamalbhera</a>
     </td>
   </tr>
 </table>
