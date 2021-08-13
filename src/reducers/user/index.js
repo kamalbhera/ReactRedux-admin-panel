@@ -1,4 +1,4 @@
-import { actions } from 'actions/user.action';
+import { actions } from 'actions/userAction';
 
 // Initial State
 const INITIAL_STATE = {

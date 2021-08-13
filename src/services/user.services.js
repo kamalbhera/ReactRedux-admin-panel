@@ -1,6 +1,6 @@
 import { replace } from 'react-router-redux';
 import { openNotificationWithIcon } from 'utils/notification';
-import { setUser, setAllUsers } from 'actions/user.action';
+import { setUser, setAllUsers } from 'actions/userAction';
 import { login, getUsers } from 'mockApi/user/controller';
 
 // performs user authentication.

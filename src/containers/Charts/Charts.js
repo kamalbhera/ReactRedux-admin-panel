@@ -4,7 +4,7 @@ import BubbleChart from '../../components/Charts/Bubble';
 import PolarChart from '../../components/Charts/Polar';
 import { Doughnut } from '../../components/Charts/Doughnut';
 import Bar from '../../components/Charts/Bar';
-import './Charts.style.scss';
+import './style.scss';
 import Radar from '../../components/Charts/Radar';
 import Pie from '../../components/Charts/Pie';
 

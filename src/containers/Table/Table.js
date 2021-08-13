@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import memoize from "memoize-one";
 import { Button, SearchInput } from 'components/Shared'
 import { getAllUsers } from 'services/user.services';
-import { setUserLoader } from 'actions/user.action';
+import { setUserLoader } from 'actions/userAction';
 import { openModal } from 'actions/modal.action';
 
 class TableContainer extends Component {

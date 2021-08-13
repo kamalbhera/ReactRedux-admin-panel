@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import Logo from 'assets/images/logo.png';
 import { userLogin } from 'services/user.services';
-import './Login.style.scss';
+import './style.scss';
 
 const FormItem = Form.Item;
 

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import PropTypes from 'prop-types';
-import { setCurrentUser } from 'actions/user.action';
+import { setCurrentUser } from 'actions/userAction';
 import UserModal from 'components/Modal/UserModal';
 import { closeModal } from 'actions/modal.action';
 

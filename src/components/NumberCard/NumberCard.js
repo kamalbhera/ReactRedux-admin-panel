@@ -2,7 +2,7 @@ import React from 'react';
 import { Card, Icon } from 'antd';
 import CountUp from 'react-countup';
 import PropTypes from 'prop-types';
-import './NumberCard.style.scss';
+import './style.scss';
 
 const NumberCard = ({ color, number, type, title }) => {
   return (

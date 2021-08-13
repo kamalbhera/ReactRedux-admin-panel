@@ -4,7 +4,7 @@ import NumberCard from 'components/NumberCard/NumberCard';
 // import { Doughnut } from '../../components/Charts/Doughnut';
 import Bar from 'components/Charts/Bar';
 import CountUp from 'react-countup';
-import './Dashboard.style.scss';
+import './style.scss';
 
 class Dashboard extends Component {
   cards = [

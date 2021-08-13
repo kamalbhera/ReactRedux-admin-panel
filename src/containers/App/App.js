@@ -7,7 +7,7 @@ import { logout } from '../../services/user.services';
 import SiderMenu from '../../components/Menu/Menu';
 import { push } from 'react-router-redux';
 import ModalContainer from '../Modal';
-import './App.style.scss';
+import './style.scss';
 const { Header, Sider, Content, Footer } = Layout;
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;
@@ -48,10 +48,10 @@ class App extends Component {
               Profile
               </Menu.Item>
             <Menu.Item key="setting:1" >
-              <a href="" onClick={logout}>
+              <span  onClick={logout}>
                 <Icon type="logout" theme="outlined" />
                 Logout
-                </a>
+                </span>
             </Menu.Item>
           </MenuItemGroup>
         </SubMenu>
