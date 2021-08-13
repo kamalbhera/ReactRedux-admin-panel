@@ -11,7 +11,7 @@ This source code is licensed under the MIT license.
 <table>
   <tr>
     <td>
-      <img src="https://github.com/kamal.png?s=100" width="100">
+      <img src="https://avatars.githubusercontent.com/u/65757787?v=4" width="100">
     </td>
     <td>
       CS Kamal Bhera<br />
